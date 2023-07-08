@@ -1,0 +1,21 @@
+/*class selector*/
+.stylish {
+  background-color: #001C30;
+  color: #DAFFFB;
+}
+
+/*id selector
+avoid unless extremely necessary*/
+#classic {
+  font-family: Arial;
+  color: #64CCC5;
+}
+
+/*element selector
+avoid unless extremely necessary*/
+p {
+  background-color: #FCAEAE;
+  color: #FF6666;
+  font-size: 20px;
+  border: 2px solid #ff0000;
+}
